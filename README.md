@@ -27,7 +27,9 @@ Java代码有三种注释方式，注释场景也是使用中文频率比较高�
 ![](https://mmbiz.qpic.cn/mmbiz_gif/CqgkJibaugibriceputbKwPlMl40icjWa4N9hbLr38pVqvQicU9T0QnA8XRicffQr1fGsibFIrwicm5RvW5NOldd0VzASQ/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)
 
 
-完整文章请查看[微信公众号文章](https://mp.weixin.qq.com/s?__biz=MzIzMzcyNzA3Mw==&mid=2247483757&idx=1&sn=85260c90639afedc082ade647ca8a55b&chksm=e8807463dff7fd757e775066f4f07075d7c682b1d813f666bd3c195f471defdc659bb8466c29&scene=178&cur_album_id=2810769188716937217#rd)。关注微信公众号”开发效率“获取更多提升开发效率的方法。
+#### 未完......
+
+#### 完整文章请查看[微信公众号文章](https://mp.weixin.qq.com/s?__biz=MzIzMzcyNzA3Mw==&mid=2247483757&idx=1&sn=85260c90639afedc082ade647ca8a55b&chksm=e8807463dff7fd757e775066f4f07075d7c682b1d813f666bd3c195f471defdc659bb8466c29&scene=178&cur_album_id=2810769188716937217#rd)。关注微信公众号”开发效率“获取更多提升开发效率的方法。
 
 ![](https://smart-input-source-1315501506.cos.ap-shanghai.myqcloud.com/public/qrcode_for_weixingongzhong.jpg)
 
